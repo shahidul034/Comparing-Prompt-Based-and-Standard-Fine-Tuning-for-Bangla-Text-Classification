@@ -1,0 +1,7 @@
+1) https://github.com/banglanlp/bangla-sentiment-classification
+2) https://www.kaggle.com/datasets/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts -- acl
+3) https://www.kaggle.com/datasets/mobassir/bengali-news-comments-sentiment  -- IEEE xplore conf -- dataset not formatted
+4) https://data.mendeley.com/datasets/p6zc7krs37/4
+5) https://www.kaggle.com/datasets/tasrifnurhimel/sentiment-dataset-bangla-text
+6) https://data.mendeley.com/datasets/n53xt69gnf/3
+7) https://github.com/mohsinulkabir14/BanglaBook (paper)

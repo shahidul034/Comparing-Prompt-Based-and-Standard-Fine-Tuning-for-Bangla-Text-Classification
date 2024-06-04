@@ -1,0 +1,64 @@
+********
+Number of samples per class: 4
+Epochs: 20
+model_root_name: t5
+model_full_name: google/mt5-base
+template_text: {"placeholder":"text_a"}. sentiment: {"mask"}.
+Accuracy: 0.6666666666666666
+********
+********
+Number of samples per class: 8
+Epochs: 20
+model_root_name: t5
+model_full_name: google/mt5-base
+template_text: {"placeholder":"text_a"}. sentiment: {"mask"}.
+Accuracy: 0.25
+********
+********
+Number of samples per class: 16
+Epochs: 20
+model_root_name: t5
+model_full_name: google/mt5-base
+template_text: {"placeholder":"text_a"}. sentiment: {"mask"}.
+Accuracy: 0.25
+********
+********
+Number of samples per class: 32
+Epochs: 20
+model_root_name: t5
+model_full_name: google/mt5-base
+template_text: {"placeholder":"text_a"}. sentiment: {"mask"}.
+Accuracy: 0.5416666666666666
+********
+********
+Number of samples per class: 4
+Epochs: 20
+model_root_name: t5
+model_full_name: csebuetnlp/banglat5
+template_text: {"placeholder":"text_a"}. sentiment: {"mask"}.
+Accuracy: 0.3333333333333333
+********
+********
+Number of samples per class: 8
+Epochs: 20
+model_root_name: t5
+model_full_name: csebuetnlp/banglat5
+template_text: {"placeholder":"text_a"}. sentiment: {"mask"}.
+Accuracy: 0.25
+********
+********
+Number of samples per class: 16
+Epochs: 20
+model_root_name: t5
+model_full_name: csebuetnlp/banglat5
+template_text: {"placeholder":"text_a"}. sentiment: {"mask"}.
+Accuracy: 0.375
+********
+********
+Number of samples per class: 32
+Epochs: 20
+model_root_name: t5
+model_full_name: csebuetnlp/banglat5
+template_text: {"placeholder":"text_a"}. sentiment: {"mask"}.
+Accuracy: 0.375
+********

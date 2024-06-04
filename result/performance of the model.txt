@@ -1,0 +1,446 @@
+********
+Number of samples: 4645
+Dataset name: ABSA_Datasets
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: [CLS] নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"} [SEP]
+Accuracy: 0.5489773950484392
+********
+********
+Number of samples: 4645
+Dataset name: ABSA_Datasets
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"} [SEP]
+Accuracy: 0.5511302475780409
+********
+********
+Number of samples: 4645
+Dataset name: ABSA_Datasets
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: [CLS] নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"} [SEP]
+Accuracy: 0.5479009687836384
+********
+********
+Number of samples: 4645
+Dataset name: ABSA_Datasets
+Epochs: 10
+model_root_name: bert
+model_full_name: xlm-roberta-large
+template_text: [CLS] নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"} [SEP]
+Accuracy: 0.5382131324004306
+********
+********
+Number of samples: 4645
+Dataset name: ABSA_Datasets
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.5392895586652314
+********
+********
+Number of samples: 4645
+Dataset name: ABSA_Datasets
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.5543595263724435
+********
+********
+Number of samples: 4645
+Dataset name: ABSA_Datasets
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.5026910656620022
+********
+********
+Number of samples: 4645
+Dataset name: ABSA_Datasets
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.5392895586652314
+********
+********
+Number of samples: 4645
+Dataset name: ABSA_Datasets
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.5285252960172229
+********
+********
+Number of samples: 4645
+Dataset name: ABSA_Datasets
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.36167922497308935
+********
+********
+Number of samples: 4645
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"} [SEP]
+Accuracy: 0.5199138858988159
+********
+********
+Number of samples: 4645
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: [CLS] নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"} [SEP]
+Accuracy: 0.3638320775026911
+********
+********
+Number of samples: 4645
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.37782561894510225
+********
+********
+Number of samples: 4645
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটা অনুভূতি হলো {"mask"}. [SEP]
+Accuracy: 0.36598493003229277
+********
+********
+Number of samples: 4645
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.5382131324004306
+********
+********
+Number of samples: 4645
+Dataset name: ABSA_Datasets
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.5392895586652314
+********
+********
+Number of samples: 4645
+Dataset name: ABSA_Datasets
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.5026910656620022
+********
+********
+Number of samples: 4645
+Dataset name: ABSA_Datasets
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.5392895586652314
+********
+********
+Number of samples: 4645
+Dataset name: ABSA_Datasets
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.5285252960172229
+********
+********
+Number of samples: 4645
+Dataset name: ABSA_Datasets
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.36167922497308935
+********
+
+********
+Number of samples: 6570
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.5692541856925418
+********
+********
+Number of samples: 6570
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.578386605783866
+********
+********
+Number of samples: 6570
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.5928462709284628
+********
+********
+Number of samples: 6570
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.5799086757990868
+********
+********
+Number of samples: 6570
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.5684931506849316
+********
+********
+Number of samples: 6570
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.563165905631659
+********
+********
+Number of samples: 6570
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.5745814307458144
+********
+********
+Number of samples: 6570
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.5646879756468798
+********
+********
+Number of samples: 6570
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.5525114155251142
+********
+********
+Number of samples: 6570
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.5502283105022832
+********
+********
+Number of samples: 8420
+Dataset name: multichannel_bsentiment
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.5611638954869359
+********
+********
+Number of samples: 8420
+Dataset name: multichannel_bsentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.5457244655581948
+********
+********
+Number of samples: 8420
+Dataset name: multichannel_bsentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.5540380047505938
+********
+********
+Number of samples: 8420
+Dataset name: multichannel_bsentiment
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.4412114014251782
+********
+********
+Number of samples: 8420
+Dataset name: multichannel_bsentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.5498812351543944
+********
+********
+Number of samples: 8420
+Dataset name: multichannel_bsentiment
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.5433491686460807
+********
+********
+Number of samples: 8420
+Dataset name: multichannel_bsentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.5409738717339667
+********
+********
+Number of samples: 8420
+Dataset name: multichannel_bsentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.5427553444180523
+********
+********
+Number of samples: 8420
+Dataset name: multichannel_bsentiment
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.5593824228028503
+********
+********
+Number of samples: 8420
+Dataset name: multichannel_bsentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.5546318289786223
+********
+********
+Number of samples: 2796
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.46964285714285714
+********
+********
+Number of samples: 2796
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.4625
+********
+********
+Number of samples: 2796
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.42678571428571427
+********
+********
+Number of samples: 2796
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.4357142857142857
+********
+********
+Number of samples: 2796
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.2517857142857143
+********
+********
+Number of samples: 2796
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.2839285714285714
+********
+********
+Number of samples: 2796
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.4607142857142857
+********
+********
+Number of samples: 2796
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.4392857142857143
+********
+********
+Number of samples: 2796
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.4589285714285714
+********
+********
+Number of samples: 2796
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.2625
+********

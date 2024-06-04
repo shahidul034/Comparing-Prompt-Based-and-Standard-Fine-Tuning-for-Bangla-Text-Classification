@@ -1,0 +1,6 @@
+dataset name: Test.csv class_details: [{'class_name': 0, 'length': 361}, {'class_name': 1, 'length': 654}, {'class_name': 2, 'length': 571}] length: 1586
+dataset name: Train.csv class_details: [{'class_name': 0, 'length': 2894}, {'class_name': 1, 'length': 5133}, {'class_name': 2, 'length': 4548}] length: 12575
+dataset name: Val.csv class_details: [{'class_name': 0, 'length': 354}, {'class_name': 1, 'length': 623}, {'class_name': 2, 'length': 590}] length: 1567
+dataset name: Test.csv class_details: [{'class_name': 0, 'length': 361}, {'class_name': 1, 'length': 654}, {'class_name': 2, 'length': 571}] length: 1586
+dataset name: Train.csv class_details: [{'class_name': 0, 'length': 2894}, {'class_name': 1, 'length': 5133}, {'class_name': 2, 'length': 4548}] length: 12575
+dataset name: Val.csv class_details: [{'class_name': 0, 'length': 354}, {'class_name': 1, 'length': 623}, {'class_name': 2, 'length': 590}] length: 1567

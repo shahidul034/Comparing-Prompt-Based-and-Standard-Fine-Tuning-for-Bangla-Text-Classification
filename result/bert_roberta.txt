@@ -1,0 +1,128 @@
+********
+Number of samples per class: 4
+Epochs: 20
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.3333333333333333
+********
+********
+Number of samples per class: 8
+Epochs: 20
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.25
+********
+********
+Number of samples per class: 16
+Epochs: 20
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.25
+********
+********
+Number of samples per class: 32
+Epochs: 20
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.3333333333333333
+********
+********
+Number of samples per class: 4
+Epochs: 20
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.3333333333333333
+********
+********
+Number of samples per class: 8
+Epochs: 20
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.16666666666666666
+********
+********
+Number of samples per class: 16
+Epochs: 20
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.2916666666666667
+********
+********
+Number of samples per class: 32
+Epochs: 20
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.2916666666666667
+********
+********
+Number of samples per class: 4
+Epochs: 20
+model_root_name: roberta
+model_full_name: roberta-large
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.3333333333333333
+********
+********
+Number of samples per class: 8
+Epochs: 20
+model_root_name: roberta
+model_full_name: roberta-large
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.25
+********
+********
+Number of samples per class: 16
+Epochs: 20
+model_root_name: roberta
+model_full_name: roberta-large
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.25
+********
+********
+Number of samples per class: 32
+Epochs: 20
+model_root_name: roberta
+model_full_name: roberta-large
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.1875
+********
+********
+Number of samples per class: 4
+Epochs: 20
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.16666666666666666
+********
+********
+Number of samples per class: 8
+Epochs: 20
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.5
+********
+********
+Number of samples per class: 16
+Epochs: 20
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.5
+********
+********
+Number of samples per class: 32
+Epochs: 20
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.3333333333333333
+********
