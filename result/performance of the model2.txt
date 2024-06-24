@@ -1,0 +1,135 @@
+********
+Number of samples: 11809
+Dataset name: BSACD
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.722692633361558
+********
+********
+Number of samples: 11809
+Dataset name: BSACD
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.7209991532599492
+********
+********
+Number of samples: 11809
+Dataset name: BSACD
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.7116850127011007
+********
+********
+Number of samples: 11809
+Dataset name: BSACD
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.7146486028789162
+********
+********
+Number of samples: 11809
+Dataset name: BSACD
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.714225232853514
+********
+********
+Number of samples: 15525
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.4830917874396135
+********
+********
+Number of samples: 15525
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.4927536231884058
+********
+********
+Number of samples: 15525
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.5178743961352656
+********
+********
+Number of samples: 15525
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.5123993558776168
+********
+********
+Number of samples: 15525
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: [CLS] {"placeholder":"text_a"}. Sentiment: {"mask"}. [SEP]
+Accuracy: 0.5169082125603864
+********
+********
+Number of samples: 15525
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.4760064412238325
+********
+********
+Number of samples: 15525
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.48373590982286635
+********
+********
+Number of samples: 15525
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.5201288244766505
+********
+********
+Number of samples: 15525
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.4821256038647343
+********
+********
+Number of samples: 15525
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: [CLS] {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.[SEP]
+Accuracy: 0.47568438003220614
+********
