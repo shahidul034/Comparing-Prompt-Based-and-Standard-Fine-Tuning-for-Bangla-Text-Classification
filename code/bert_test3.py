@@ -56,10 +56,10 @@ def bert_model(model_root_name, model_full_name, df_train, df_test, epochs, clas
         input_example2 = InputExample(text_a=te["text"], label=int(te["label"]), guid=cnt)
         dataset["train"].append(input_example1)
         dataset["test"].append(input_example2)
-    
+
     plm, tokenizer, model_config, WrapperClass = load_plm(model_root_name, model_full_name)
     mytemplate = ManualTemplate(tokenizer=tokenizer, text=prompt)
-    tokenizer.add_special_tokens({'additional_special_tokens': ['mask']})
+
     train_dataloader = PromptDataLoader(dataset=dataset["train"], template=mytemplate, tokenizer=tokenizer,
                                         tokenizer_wrapper_class=WrapperClass, max_seq_length=256, decoder_max_length=3,
                                         batch_size=4, shuffle=True, teacher_forcing=False, predict_eos_token=False,
@@ -119,7 +119,6 @@ def bert_model(model_root_name, model_full_name, df_train, df_test, epochs, clas
     
     return acc,f1,std_dev
 
-
 dataset_names_list = [
     "youtube_sentiment", #0
     "SentNoB", #1
@@ -131,38 +130,28 @@ dataset_names_list = [
     "5_Sentiment_Dataset", #7
     "CogniSenti" #8
 ]
+dataset_num=8
+data = pd.read_excel(f"testing_data2/{dataset_names_list[dataset_num]}.xlsx")
 
-data = pd.read_excel(f"testing_data2/{dataset_names_list[7]}.xlsx")
-# data.rename(columns={"Text":"text"},inplace=True)
-# data.to_excel(r"testing_data2/5_Sentiment_Dataset.xlsx",index=False)
-
-# data['text'] = data['text'].astype(str)
 data = data.dropna()
 data = data[~data['text'].apply(lambda x: isinstance(x, int))]
-# s=set()
-# for x in data['label']:
-#     s.add(type(x))
-# print(s)
-# assert(False)
-dataset_name = f"{dataset_names_list[7]}"+"_t5"
+
+dataset_name = f"{dataset_names_list[dataset_num]}"+"_bert"
 class_labels = [[str(x)] for x in set(data['class_label'])]
 
 model_names = [
-    ["t5", "google/mt5-base"],
-    ["t5", "csebuetnlp/banglat5"],
-    # ["t5", "google/umt5-small"],
-    # ["t5", "google/umt5-base"],
-    # ["t5", "google/umt5-xl"],
-    # ["t5", "google/umt5-xxl"]
+    ["roberta", "xlm-roberta-large"],
+    ["bert", "google-bert/bert-base-multilingual-cased"],
+    ["bert", "distilbert/distilbert-base-multilingual-cased"],
+    ["roberta", "xlm-roberta-base"],
+    ["bert", "csebuetnlp/banglabert"]
 ]
 prompts = [
     '{"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.',
     '{"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.',
     'নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}'
 ]
-chunk_sizes = [4
-               ,8, 16, 32
-               ]
+chunk_sizes = [4,8, 16,32]
 epochs=10
 runtime_count=1
 import time
@@ -175,15 +164,13 @@ for idx1,(model_root, model_full) in enumerate(model_names):
             cnt=1
             t_acc,t_f1,t_std=0,0,0
             for idx3,(df_train, df_test) in enumerate(datasets):
-                # if runtime_count<=6:
-                #     continue
-                
                 acc,f1,std=bert_model(model_root, model_full, df_train, df_test, epochs, class_labels, prompt_text, dataset_name, n_samples,cnt)
                 t_acc,t_f1,t_std,cnt=t_acc+acc,t_f1+f1,t_std+std,cnt+1
             string_to_write = f"********Chunk_no: {runtime_count}\nNumber of samples: {n_samples}\nDataset name: {dataset_name}\nEpochs: {epochs}\nmodel_root_name: {model_root}\nmodel_full_name: {model_full}\ntemplate_text: {prompt_text}\nAccuracy: {t_acc/5.0}\nstandard_deviation: {t_std/5.0}\nf1_score: {t_f1/5.0}\n********\n"
             print("Chunk completed: ","*"*15,":",runtime_count,f"/{len(model_names)*len(prompts)*4}")
             runtime_count+=1
-            file_path = f'result_new_t5//{dataset_name}_2.txt'
+
+            file_path = f'modified_prompt//{dataset_name}.txt'
             
             result_save(file_path,string_to_write)
             print(string_to_write)

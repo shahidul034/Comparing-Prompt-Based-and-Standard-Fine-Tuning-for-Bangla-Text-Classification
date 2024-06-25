@@ -1,0 +1,660 @@
+********Chunk_no: 1
+Number of samples: 4
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 2
+Number of samples: 4
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 3
+Number of samples: 4
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.35
+standard_deviation: 0.05527707983925666
+f1_score: 0.19555555555555554
+********
+********Chunk_no: 4
+Number of samples: 8
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.3583333333333333
+standard_deviation: 0.22177713127153456
+f1_score: 0.21188530465949823
+********
+********Chunk_no: 5
+Number of samples: 8
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 6
+Number of samples: 8
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 7
+Number of samples: 16
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 8
+Number of samples: 16
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 9
+Number of samples: 16
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 10
+Number of samples: 32
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 11
+Number of samples: 32
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 12
+Number of samples: 32
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 13
+Number of samples: 4
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.36666666666666664
+standard_deviation: 0.37558219751390143
+f1_score: 0.2757142857142857
+********
+********Chunk_no: 14
+Number of samples: 4
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.36666666666666664
+standard_deviation: 0.3371745851946504
+f1_score: 0.24478114478114477
+********
+********Chunk_no: 15
+Number of samples: 4
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.2833333333333333
+standard_deviation: 0.6757249463511522
+f1_score: 0.19895622895622894
+********
+********Chunk_no: 16
+Number of samples: 8
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.375
+standard_deviation: 0.5621237551324845
+f1_score: 0.31155471784762406
+********
+********Chunk_no: 17
+Number of samples: 8
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.3083333333333333
+standard_deviation: 0.1521016634944421
+f1_score: 0.17616936629724353
+********
+********Chunk_no: 18
+Number of samples: 8
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.3416666666666667
+standard_deviation: 0.3839004453427899
+f1_score: 0.22250357368636936
+********
+********Chunk_no: 19
+Number of samples: 16
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.4208333333333333
+standard_deviation: 0.6617713340274555
+f1_score: 0.3705239900451634
+********
+********Chunk_no: 20
+Number of samples: 16
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.3416666666666667
+standard_deviation: 0.16244657241348273
+f1_score: 0.19107312440645774
+********
+********Chunk_no: 21
+Number of samples: 16
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.3458333333333333
+standard_deviation: 0.10554274683093476
+f1_score: 0.18988774303700962
+********
+********Chunk_no: 22
+Number of samples: 32
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.3458333333333333
+standard_deviation: 0.08660254037844387
+f1_score: 0.19194139194139193
+********
+********Chunk_no: 23
+Number of samples: 32
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 24
+Number of samples: 32
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.3479166666666666
+standard_deviation: 0.1423390904378227
+f1_score: 0.21354238474651446
+********
+********Chunk_no: 25
+Number of samples: 4
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 26
+Number of samples: 4
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.35
+standard_deviation: 0.28375924043540107
+f1_score: 0.20578754578754577
+********
+********Chunk_no: 27
+Number of samples: 4
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 28
+Number of samples: 8
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 29
+Number of samples: 8
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 30
+Number of samples: 8
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 31
+Number of samples: 16
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 32
+Number of samples: 16
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 33
+Number of samples: 16
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 34
+Number of samples: 32
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 35
+Number of samples: 32
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 36
+Number of samples: 32
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 37
+Number of samples: 4
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.4166666666666667
+standard_deviation: 0.6842614142820633
+f1_score: 0.3484004884004883
+********
+********Chunk_no: 38
+Number of samples: 4
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.4833333333333334
+standard_deviation: 0.750740662374196
+f1_score: 0.4469515669515669
+********
+********Chunk_no: 39
+Number of samples: 4
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.36666666666666664
+standard_deviation: 0.5492177925513821
+f1_score: 0.2971905871905872
+********
+********Chunk_no: 40
+Number of samples: 8
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.35833333333333334
+standard_deviation: 0.4944962654132256
+f1_score: 0.2691256188676209
+********
+********Chunk_no: 41
+Number of samples: 8
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.31666666666666665
+standard_deviation: 0.5422615531861948
+f1_score: 0.2413456718719877
+********
+********Chunk_no: 42
+Number of samples: 8
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.32499999999999996
+standard_deviation: 0.3859970933425029
+f1_score: 0.2509395964659123
+********
+********Chunk_no: 43
+Number of samples: 16
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.36249999999999993
+standard_deviation: 0.12849286620924397
+f1_score: 0.22622646123746634
+********
+********Chunk_no: 44
+Number of samples: 16
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.3833333333333333
+standard_deviation: 0.406248525080562
+f1_score: 0.2799114565809993
+********
+********Chunk_no: 45
+Number of samples: 16
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.37916666666666665
+standard_deviation: 0.5460798580933289
+f1_score: 0.31742556408659894
+********
+********Chunk_no: 46
+Number of samples: 32
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 47
+Number of samples: 32
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.33541666666666664
+standard_deviation: 0.0970957176976147
+f1_score: 0.1748381072859251
+********
+********Chunk_no: 48
+Number of samples: 32
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 49
+Number of samples: 4
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.31666666666666665
+standard_deviation: 0.05527707983925666
+f1_score: 0.15999999999999998
+********
+********Chunk_no: 50
+Number of samples: 4
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 51
+Number of samples: 4
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 52
+Number of samples: 8
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 53
+Number of samples: 8
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 54
+Number of samples: 8
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 55
+Number of samples: 16
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 56
+Number of samples: 16
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 57
+Number of samples: 16
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 58
+Number of samples: 32
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 59
+Number of samples: 32
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********
+********Chunk_no: 60
+Number of samples: 32
+Dataset name: youtube_sentiment_bert
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0
+f1_score: 0.16666666666666666
+********

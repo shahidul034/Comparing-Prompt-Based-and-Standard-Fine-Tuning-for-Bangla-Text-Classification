@@ -1,0 +1,200 @@
+
+Number of samples: 4
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.19
+standard_deviation: 0.04045127748068925
+f1_score: 0.10909744503862151
+**
+
+Number of samples: 8
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.205
+standard_deviation: 0.02750317467190532
+f1_score: 0.14999365065618936
+**
+
+Number of samples: 16
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.2475
+standard_deviation: 0.02765788346055752
+f1_score: 0.19218423307888494
+**
+
+Number of samples: 32
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.2
+standard_deviation: 0.06666666666666668
+f1_score: 0.06666666666666667
+**
+
+Number of samples: 4
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.24
+standard_deviation: 0.039564080704745666
+f1_score: 0.16087183859050866
+**
+
+Number of samples: 8
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.27
+standard_deviation: 0.0185780088056303
+f1_score: 0.23284398238873943
+**
+
+Number of samples: 16
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.22000000000000003
+standard_deviation: 0.010812188002245104
+f1_score: 0.19837562399550981
+**
+
+Number of samples: 32
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.22999999999999998
+standard_deviation: 0.014362202875687138
+f1_score: 0.20127559424862568
+**
+
+Number of samples: 4
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.18000000000000002
+standard_deviation: 0.025670599094747705
+f1_score: 0.1286588018105046
+**
+
+Number of samples: 8
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.19999999999999998
+standard_deviation: 0.0335903723576808
+f1_score: 0.1328192552846384
+**
+
+Number of samples: 16
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.205
+standard_deviation: 0.01236926462683852
+f1_score: 0.18026147074632295
+**
+
+Number of samples: 32
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.20125
+standard_deviation: 0.009243839933278005
+f1_score: 0.182762320133444
+**
+
+Number of samples: 4
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.22000000000000003
+standard_deviation: 0.0550351966873706
+f1_score: 0.10992960662525879
+**
+
+Number of samples: 8
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.175
+standard_deviation: 0.03713980463980464
+f1_score: 0.10072039072039071
+**
+
+Number of samples: 16
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.20249999999999999
+standard_deviation: 0.02771111644374451
+f1_score: 0.14707776711251097
+**
+
+Number of samples: 32
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.20124999999999998
+standard_deviation: 0.03183574658192186
+f1_score: 0.13757850683615627
+**
+
+Number of samples: 4
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.16
+standard_deviation: 0.03239512774806893
+f1_score: 0.09520974450386215
+**
+
+Number of samples: 8
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.2
+standard_deviation: 0.02861532976827095
+f1_score: 0.14276934046345813
+**
+
+Number of samples: 16
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.21750000000000003
+standard_deviation: 0.004947982882153609
+f1_score: 0.20760403423569276
+**
+
+Number of samples: 32
+Dataset name: dsfsa
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.275
+standard_deviation: 0.01630599835320165
+f1_score: 0.2423880032935967
+**

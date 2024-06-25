@@ -1,0 +1,200 @@
+
+Number of samples: 4
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.65
+standard_deviation: 0.05166666666666666
+f1_score: 0.5466666666666666
+**
+
+Number of samples: 8
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.625
+standard_deviation: 0.031035850114797474
+f1_score: 0.562928299770405
+**
+
+Number of samples: 16
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.5875
+standard_deviation: 0.018791647448688505
+f1_score: 0.549916705102623
+**
+
+Number of samples: 32
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.765625
+standard_deviation: 0.007253432010413441
+f1_score: 0.7511181359791731
+**
+
+Number of samples: 4
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.45
+standard_deviation: 0.035822510822510825
+f1_score: 0.37835497835497833
+**
+
+Number of samples: 8
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.5625
+standard_deviation: 0.016325757575757577
+f1_score: 0.5298484848484849
+**
+
+Number of samples: 16
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.575
+standard_deviation: 0.008108430703307357
+f1_score: 0.5587831385933854
+**
+
+Number of samples: 32
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.725
+standard_deviation: 0.0010406133755986647
+f1_score: 0.7229187732488027
+**
+
+Number of samples: 4
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.55
+standard_deviation: 0.06833333333333333
+f1_score: 0.4133333333333333
+**
+
+Number of samples: 8
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.525
+standard_deviation: 0.05946969696969697
+f1_score: 0.40606060606060607
+**
+
+Number of samples: 16
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.59375
+standard_deviation: 0.0061193704208410025
+f1_score: 0.581511259158318
+**
+
+Number of samples: 32
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.70625
+standard_deviation: 0.001992455403077942
+f1_score: 0.7022650891938442
+**
+
+Number of samples: 4
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.5
+standard_deviation: 0.08333333333333334
+f1_score: 0.3333333333333333
+**
+
+Number of samples: 8
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.5
+standard_deviation: 0.08333333333333334
+f1_score: 0.3333333333333333
+**
+
+Number of samples: 16
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.50625
+standard_deviation: 0.07986676053400084
+f1_score: 0.34651647893199833
+**
+
+Number of samples: 32
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.80625
+standard_deviation: 0.005772912355162696
+f1_score: 0.7947041752896746
+**
+
+Number of samples: 4
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.55
+standard_deviation: 0.0007936507936507908
+f1_score: 0.5484126984126985
+**
+
+Number of samples: 8
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.625
+standard_deviation: 0.011867718101733444
+f1_score: 0.6012645637965331
+**
+
+Number of samples: 16
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.70625
+standard_deviation: 0.0005010272639746516
+f1_score: 0.7052479454720506
+**
+
+Number of samples: 32
+Dataset name: 5_Sentiment_Dataset
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.8875
+standard_deviation: 0.00014481753389992136
+f1_score: 0.8872103649322002
+**

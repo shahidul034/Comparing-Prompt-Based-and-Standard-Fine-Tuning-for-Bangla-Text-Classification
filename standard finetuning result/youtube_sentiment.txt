@@ -1,0 +1,200 @@
+
+Number of samples: 4
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.3333333333333333
+standard_deviation: 0.08333333333333333
+f1_score: 0.16666666666666666
+**
+
+Number of samples: 8
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.38333333333333336
+standard_deviation: 0.01851417905765731
+f1_score: 0.34630497521801873
+**
+
+Number of samples: 16
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.4291666666666667
+standard_deviation: 0.00910947804113516
+f1_score: 0.4109477105843964
+**
+
+Number of samples: 32
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.38541666666666663
+standard_deviation: 0.05489128806132963
+f1_score: 0.2756340905440074
+**
+
+Number of samples: 4
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.33333333333333337
+standard_deviation: 0.03437710437710438
+f1_score: 0.2645791245791246
+**
+
+Number of samples: 8
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.41666666666666663
+standard_deviation: 0.03657434481978093
+f1_score: 0.34351797702710474
+**
+
+Number of samples: 16
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.5041666666666667
+standard_deviation: 0.002930771669672594
+f1_score: 0.5022461855573208
+**
+
+Number of samples: 32
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.50625
+standard_deviation: 0.006413719866923162
+f1_score: 0.4935591085102236
+**
+
+Number of samples: 4
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.3833333333333333
+standard_deviation: 0.044525659525659525
+f1_score: 0.2942820142820143
+**
+
+Number of samples: 8
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.4416666666666667
+standard_deviation: 0.021277955313043023
+f1_score: 0.3991107560405806
+**
+
+Number of samples: 16
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.4458333333333333
+standard_deviation: 0.002771377183698476
+f1_score: 0.4402905789659363
+**
+
+Number of samples: 32
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.5437500000000001
+standard_deviation: 0.004579904129072771
+f1_score: 0.5348366706150939
+**
+
+Number of samples: 4
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.4333333333333334
+standard_deviation: 0.043686868686868705
+f1_score: 0.3459595959595959
+**
+
+Number of samples: 8
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.3583333333333333
+standard_deviation: 0.06488095238095237
+f1_score: 0.22857142857142856
+**
+
+Number of samples: 16
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.5125
+standard_deviation: 0.025980923981587627
+f1_score: 0.46053815203682474
+**
+
+Number of samples: 32
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.5229166666666667
+standard_deviation: 0.010636856145383938
+f1_score: 0.5016429543758989
+**
+
+Number of samples: 4
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.38333333333333336
+standard_deviation: 0.04222222222222223
+f1_score: 0.29888888888888887
+**
+
+Number of samples: 8
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.4333333333333334
+standard_deviation: 0.0422276163883379
+f1_score: 0.3488781005566576
+**
+
+Number of samples: 16
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.4958333333333333
+standard_deviation: 0.017593229753466798
+f1_score: 0.4606468738263998
+**
+
+Number of samples: 32
+Dataset name: youtube_sentiment
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.6354166666666666
+standard_deviation: 0.006826867855909502
+f1_score: 0.6217629309548476
+**

@@ -1,0 +1,200 @@
+
+Number of samples: 4
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.3333333333333333
+standard_deviation: 0.07460317460317459
+f1_score: 0.1841269841269841
+**
+
+Number of samples: 8
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.325
+standard_deviation: 0.06331770501570279
+f1_score: 0.1983645899685944
+**
+
+Number of samples: 16
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.4291666666666667
+standard_deviation: 0.027784402349337062
+f1_score: 0.37363054170655463
+**
+
+Number of samples: 32
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.4395833333333333
+standard_deviation: 0.025223506206810263
+f1_score: 0.38913632091971284
+**
+
+Number of samples: 4
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.33333333333333337
+standard_deviation: 0.03300366300366302
+f1_score: 0.2673260073260073
+**
+
+Number of samples: 8
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.4
+standard_deviation: 0.042517136907038726
+f1_score: 0.31496572618592256
+**
+
+Number of samples: 16
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.4708333333333334
+standard_deviation: 0.01755130716942055
+f1_score: 0.4357307189944922
+**
+
+Number of samples: 32
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.4583333333333333
+standard_deviation: 0.011531916569969453
+f1_score: 0.43526950019339433
+**
+
+Number of samples: 4
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.45
+standard_deviation: 0.041774336774336784
+f1_score: 0.3664513264513264
+**
+
+Number of samples: 8
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.4416666666666667
+standard_deviation: 0.034534473025718895
+f1_score: 0.37259772061522883
+**
+
+Number of samples: 16
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.4541666666666667
+standard_deviation: 0.011490619006718845
+f1_score: 0.43295169071360873
+**
+
+Number of samples: 32
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.475
+standard_deviation: 0.010248964891937783
+f1_score: 0.4545020702161244
+**
+
+Number of samples: 4
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.4166666666666667
+standard_deviation: 0.056666666666666664
+f1_score: 0.30333333333333334
+**
+
+Number of samples: 8
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.3916666666666667
+standard_deviation: 0.026962165514797104
+f1_score: 0.3439745829219513
+**
+
+Number of samples: 16
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.4666666666666667
+standard_deviation: 0.015801832575666565
+f1_score: 0.4350630015153335
+**
+
+Number of samples: 32
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.5145833333333333
+standard_deviation: 0.01944606785924074
+f1_score: 0.4756911976148519
+**
+
+Number of samples: 4
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.25
+standard_deviation: 0.029897879897879908
+f1_score: 0.19020424020424018
+**
+
+Number of samples: 8
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.3833333333333333
+standard_deviation: 0.009395005865594103
+f1_score: 0.36967655438243674
+**
+
+Number of samples: 16
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.4541666666666667
+standard_deviation: 0.01863960285810729
+f1_score: 0.41688746095045204
+**
+
+Number of samples: 32
+Dataset name: CogniSenti
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.5270833333333333
+standard_deviation: 0.008185606388750705
+f1_score: 0.5107121205558319
+**

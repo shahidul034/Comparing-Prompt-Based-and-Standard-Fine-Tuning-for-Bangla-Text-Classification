@@ -1,0 +1,264 @@
+********Chunk_no: 1
+Number of samples: 4
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: google/mt5-base
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.575
+standard_deviation: 0.3393488635335025
+f1_score: 0.5193939393939394
+********
+********Chunk_no: 2
+Number of samples: 4
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: google/mt5-base
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.5
+standard_deviation: 0.3598076211353316
+f1_score: 0.44666666666666666
+********
+********Chunk_no: 3
+Number of samples: 4
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: google/mt5-base
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.575
+standard_deviation: 0.4393488635335025
+f1_score: 0.5493939393939394
+********
+********Chunk_no: 4
+Number of samples: 8
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: google/mt5-base
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.6375
+standard_deviation: 0.4475890027741139
+f1_score: 0.6180273252719074
+********
+********Chunk_no: 5
+Number of samples: 8
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: google/mt5-base
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.55
+standard_deviation: 0.46602088805370545
+f1_score: 0.5353672540050249
+********
+********Chunk_no: 6
+Number of samples: 8
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: google/mt5-base
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.5625
+standard_deviation: 0.4371550307363961
+f1_score: 0.5375796728361004
+********
+********Chunk_no: 7
+Number of samples: 16
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: google/mt5-base
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.74375
+standard_deviation: 0.4713670610596126
+f1_score: 0.7363129694522883
+********
+********Chunk_no: 8
+Number of samples: 16
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: google/mt5-base
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.73125
+standard_deviation: 0.49705112723269923
+f1_score: 0.7304942020290773
+********
+********Chunk_no: 9
+Number of samples: 16
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: google/mt5-base
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.7
+standard_deviation: 0.4412771333028857
+f1_score: 0.6744470831810985
+********
+********Chunk_no: 10
+Number of samples: 32
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: google/mt5-base
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.803125
+standard_deviation: 0.49511057179427925
+f1_score: 0.8022103540179504
+********
+********Chunk_no: 11
+Number of samples: 32
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: google/mt5-base
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.75625
+standard_deviation: 0.4979385880461633
+f1_score: 0.7556901981452786
+********
+********Chunk_no: 12
+Number of samples: 32
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: google/mt5-base
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.84375
+standard_deviation: 0.4841290018169411
+f1_score: 0.8396294026038287
+********
+********Chunk_no: 13
+Number of samples: 4
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: csebuetnlp/banglat5
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.625
+standard_deviation: 0.45344211739735646
+f1_score: 0.6079653679653679
+********
+********Chunk_no: 14
+Number of samples: 4
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: csebuetnlp/banglat5
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.4
+standard_deviation: 0.4936491673103708
+f1_score: 0.39682539682539686
+********
+********Chunk_no: 15
+Number of samples: 4
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: csebuetnlp/banglat5
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.45
+standard_deviation: 0.4872983346207417
+f1_score: 0.4436507936507937
+********
+********Chunk_no: 16
+Number of samples: 8
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: csebuetnlp/banglat5
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.5125
+standard_deviation: 0.4637908052713812
+f1_score: 0.49500891265597147
+********
+********Chunk_no: 17
+Number of samples: 8
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: csebuetnlp/banglat5
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.5375
+standard_deviation: 0.4800008157094375
+f1_score: 0.528873465715571
+********
+********Chunk_no: 18
+Number of samples: 8
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: csebuetnlp/banglat5
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.45
+standard_deviation: 0.47707629134400015
+f1_score: 0.43611111111111106
+********
+********Chunk_no: 19
+Number of samples: 16
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: csebuetnlp/banglat5
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.625
+standard_deviation: 0.47983016105980053
+f1_score: 0.6178020628874519
+********
+********Chunk_no: 20
+Number of samples: 16
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: csebuetnlp/banglat5
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.58125
+standard_deviation: 0.4990224819584784
+f1_score: 0.5808406647116325
+********
+********Chunk_no: 21
+Number of samples: 16
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: csebuetnlp/banglat5
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.5875
+standard_deviation: 0.4877572941298906
+f1_score: 0.5828575075276967
+********
+********Chunk_no: 22
+Number of samples: 32
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: csebuetnlp/banglat5
+template_text: {"placeholder":"text_a"}. Sentiment in Bangla: {"mask"}.
+Accuracy: 0.725
+standard_deviation: 0.4983336682263378
+f1_score: 0.7244394167923579
+********
+********Chunk_no: 23
+Number of samples: 32
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: csebuetnlp/banglat5
+template_text: {"placeholder":"text_a"}. এই বাক্যটির অনুভূতি হলো {"mask"}.
+Accuracy: 0.6625
+standard_deviation: 0.4871162041791336
+f1_score: 0.6587422113009422
+********
+********Chunk_no: 24
+Number of samples: 32
+Dataset name: 5_Sentiment_Dataset_t5
+Epochs: 10
+model_root_name: t5
+model_full_name: csebuetnlp/banglat5
+template_text: নিম্নলিখিত পাঠ্যের অনুভূতি হল {"mask"}: {"placeholder":"text_a"}
+Accuracy: 0.609375
+standard_deviation: 0.48654482439660285
+f1_score: 0.6033618704434296
+********

@@ -1,0 +1,200 @@
+
+Number of samples: 4
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.3333333333333333
+standard_deviation: 0.08333333333333333
+f1_score: 0.16666666666666666
+**
+
+Number of samples: 8
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.3916666666666667
+standard_deviation: 0.010151761722969155
+f1_score: 0.3724120942696795
+**
+
+Number of samples: 16
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.4166666666666667
+standard_deviation: 0.02972033486502094
+f1_score: 0.35722599693662477
+**
+
+Number of samples: 32
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.3833333333333333
+standard_deviation: 0.04696309844923376
+f1_score: 0.2894071364348658
+**
+
+Number of samples: 4
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.38333333333333336
+standard_deviation: 0.038946053946053945
+f1_score: 0.30544122544122543
+**
+
+Number of samples: 8
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.36666666666666664
+standard_deviation: 0.047876122988566756
+f1_score: 0.27091442068953314
+**
+
+Number of samples: 16
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.3791666666666667
+standard_deviation: 0.011621061902124091
+f1_score: 0.3577700090182295
+**
+
+Number of samples: 32
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.4791666666666667
+standard_deviation: 0.01421931879470969
+f1_score: 0.45072802907724724
+**
+
+Number of samples: 4
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.3833333333333333
+standard_deviation: 0.02600048100048099
+f1_score: 0.33344877344877344
+**
+
+Number of samples: 8
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.35833333333333334
+standard_deviation: 0.03253923612619263
+f1_score: 0.29325486108094806
+**
+
+Number of samples: 16
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.3833333333333333
+standard_deviation: 0.011349846519235512
+f1_score: 0.36063364029486233
+**
+
+Number of samples: 32
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.44375
+standard_deviation: 0.0046311462169103925
+f1_score: 0.43470255919684797
+**
+
+Number of samples: 4
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.36666666666666664
+standard_deviation: 0.03811651311651312
+f1_score: 0.2904336404336404
+**
+
+Number of samples: 8
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.3416666666666667
+standard_deviation: 0.07141634353601187
+f1_score: 0.19883397959464294
+**
+
+Number of samples: 16
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.39166666666666666
+standard_deviation: 0.043898800327430015
+f1_score: 0.30386906601180663
+**
+
+Number of samples: 32
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.5291666666666667
+standard_deviation: 0.025118066587061998
+f1_score: 0.47893053349254266
+**
+
+Number of samples: 4
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.2833333333333333
+standard_deviation: 0.04706959706959706
+f1_score: 0.1891941391941392
+**
+
+Number of samples: 8
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.38333333333333336
+standard_deviation: 0.04084679647837543
+f1_score: 0.3016397403765825
+**
+
+Number of samples: 16
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.4958333333333333
+standard_deviation: 0.015824873859030687
+f1_score: 0.46418358561527195
+**
+
+Number of samples: 32
+Dataset name: SentNoB
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.6104166666666666
+standard_deviation: 0.007638790273577123
+f1_score: 0.5960571495375758
+**

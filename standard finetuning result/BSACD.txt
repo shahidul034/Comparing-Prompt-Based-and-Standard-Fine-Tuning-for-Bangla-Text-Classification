@@ -1,0 +1,200 @@
+
+Number of samples: 4
+Dataset name: BSACD
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.525
+standard_deviation: 0.023625541125541116
+f1_score: 0.4777489177489178
+**
+
+Number of samples: 8
+Dataset name: BSACD
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.4625
+standard_deviation: 0.06693627450980393
+f1_score: 0.32862745098039214
+**
+
+Number of samples: 16
+Dataset name: BSACD
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.5625
+standard_deviation: 0.019508762964645314
+f1_score: 0.5234824740707094
+**
+
+Number of samples: 32
+Dataset name: BSACD
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.8
+standard_deviation: 0.003634973616824788
+f1_score: 0.7927300527663503
+**
+
+Number of samples: 4
+Dataset name: BSACD
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.5
+standard_deviation: 0.03969696969696969
+f1_score: 0.4206060606060606
+**
+
+Number of samples: 8
+Dataset name: BSACD
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.5
+standard_deviation: 0.029710341258328877
+f1_score: 0.4405793174833422
+**
+
+Number of samples: 16
+Dataset name: BSACD
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.55
+standard_deviation: 0.0020860817062478996
+f1_score: 0.5458278365875041
+**
+
+Number of samples: 32
+Dataset name: BSACD
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.7625
+standard_deviation: 0.002506421399005121
+f1_score: 0.7574871572019898
+**
+
+Number of samples: 4
+Dataset name: BSACD
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.5
+standard_deviation: 0.08333333333333334
+f1_score: 0.3333333333333333
+**
+
+Number of samples: 8
+Dataset name: BSACD
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.5
+standard_deviation: 0.07367149758454107
+f1_score: 0.35265700483091783
+**
+
+Number of samples: 16
+Dataset name: BSACD
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.6
+standard_deviation: 0.013023703795143494
+f1_score: 0.573952592409713
+**
+
+Number of samples: 32
+Dataset name: BSACD
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.753125
+standard_deviation: 0.00039709363863539294
+f1_score: 0.7523308127227292
+**
+
+Number of samples: 4
+Dataset name: BSACD
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.5
+standard_deviation: 0.08333333333333334
+f1_score: 0.3333333333333333
+**
+
+Number of samples: 8
+Dataset name: BSACD
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.5
+standard_deviation: 0.08333333333333334
+f1_score: 0.3333333333333333
+**
+
+Number of samples: 16
+Dataset name: BSACD
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.5
+standard_deviation: 0.08333333333333334
+f1_score: 0.3333333333333333
+**
+
+Number of samples: 32
+Dataset name: BSACD
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.809375
+standard_deviation: 0.0019069324378989782
+f1_score: 0.8055611351242021
+**
+
+Number of samples: 4
+Dataset name: BSACD
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.625
+standard_deviation: 0.0034523809523809455
+f1_score: 0.6180952380952381
+**
+
+Number of samples: 8
+Dataset name: BSACD
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.525
+standard_deviation: 0.009000867553499126
+f1_score: 0.5069982648930018
+**
+
+Number of samples: 16
+Dataset name: BSACD
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.675
+standard_deviation: 0.0029320833550042337
+f1_score: 0.6691358332899915
+**
+
+Number of samples: 32
+Dataset name: BSACD
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.915625
+standard_deviation: 5.8664777885009126e-05
+f1_score: 0.9155076704442301
+**

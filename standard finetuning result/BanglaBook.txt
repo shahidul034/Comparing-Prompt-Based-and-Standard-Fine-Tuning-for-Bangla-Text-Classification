@@ -1,0 +1,200 @@
+
+Number of samples: 4
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.3166666666666666
+standard_deviation: 0.07722222222222222
+f1_score: 0.1622222222222222
+**
+
+Number of samples: 8
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.325
+standard_deviation: 0.02496505483717761
+f1_score: 0.2750698903256448
+**
+
+Number of samples: 16
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.3875
+standard_deviation: 0.020001616401644613
+f1_score: 0.3474967671967108
+**
+
+Number of samples: 32
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-large
+Accuracy: 0.3375
+standard_deviation: 0.03512454061715063
+f1_score: 0.26725091876569873
+**
+
+Number of samples: 4
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.4166666666666667
+standard_deviation: 0.030634920634920643
+f1_score: 0.3575132275132275
+**
+
+Number of samples: 8
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.35833333333333334
+standard_deviation: 0.03356220095693781
+f1_score: 0.29120893141945775
+**
+
+Number of samples: 16
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.35416666666666663
+standard_deviation: 0.0080237207374142
+f1_score: 0.33811922519183824
+**
+
+Number of samples: 32
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: bert
+model_full_name: google-bert/bert-base-multilingual-cased
+Accuracy: 0.4145833333333333
+standard_deviation: 0.013794993677657153
+f1_score: 0.38699334597801904
+**
+
+Number of samples: 4
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.33333333333333337
+standard_deviation: 0.040206830206830205
+f1_score: 0.2529196729196729
+**
+
+Number of samples: 8
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.3833333333333334
+standard_deviation: 0.03440402807069475
+f1_score: 0.31452527719194384
+**
+
+Number of samples: 16
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.36250000000000004
+standard_deviation: 0.008640469960264019
+f1_score: 0.34521906007947195
+**
+
+Number of samples: 32
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: bert
+model_full_name: distilbert/distilbert-base-multilingual-cased
+Accuracy: 0.39791666666666664
+standard_deviation: 0.012676133708533438
+f1_score: 0.3727411382669545
+**
+
+Number of samples: 4
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.2833333333333333
+standard_deviation: 0.033583638583638574
+f1_score: 0.2161660561660562
+**
+
+Number of samples: 8
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.3333333333333333
+standard_deviation: 0.0627136021872864
+f1_score: 0.20790612895876048
+**
+
+Number of samples: 16
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.3708333333333333
+standard_deviation: 0.0527669959309119
+f1_score: 0.2652993414715095
+**
+
+Number of samples: 32
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: roberta
+model_full_name: xlm-roberta-base
+Accuracy: 0.43125
+standard_deviation: 0.02275100947123117
+f1_score: 0.3857479810575376
+**
+
+Number of samples: 4
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.25
+standard_deviation: 0.030906130906130903
+f1_score: 0.1881877381877382
+**
+
+Number of samples: 8
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.39166666666666666
+standard_deviation: 0.04041765859661942
+f1_score: 0.31083134947342783
+**
+
+Number of samples: 16
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.425
+standard_deviation: 0.015843417493661006
+f1_score: 0.3948164329865342
+**
+
+Number of samples: 32
+Dataset name: BanglaBook
+Epochs: 10
+model_root_name: bert
+model_full_name: csebuetnlp/banglabert
+Accuracy: 0.4583333333333333
+standard_deviation: 0.004411822180467551
+f1_score: 0.4508598306003176
+**
